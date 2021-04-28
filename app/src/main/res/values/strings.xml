@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calories Counter</string>
+    <string name="hintFood">What did you eat?</string>
+    <string name="Calories">How much calories does it have?</string>
+    <string name="submit_button">Sumbit</string>
+    <string name="photo_button">Take a picture</string>
+</resources>
